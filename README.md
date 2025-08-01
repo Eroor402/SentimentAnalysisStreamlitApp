@@ -25,8 +25,9 @@ Main features include:
 
 **_Deployment_**
 
-Live App: https://sentimentanalysisappapp-j7fjrfgcxuuwg4tkqhqhfc.streamlit.app/
-Repo: GitHub Repository
+Live App: [Streamlit Cloud URL](https://sentimentanalysisappapp-j7fjrfgcxuuwg4tkqhqhfc.streamlit.app/)
+
+Repo: [GitHub Repository](https://github.com/Eroor402/SentimentAnalysisStreamlitApp)
 
 **_Acknowledgments_**
 Built as part of a learning journey inspired by peer projects and instructor feedback.
