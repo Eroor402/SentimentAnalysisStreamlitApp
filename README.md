@@ -1,6 +1,7 @@
 **SENTIMENT ANALYSIS WEB APP**
 
-A user-friendly Streamlit web application that performs sentiment analysis on text input using a trained machine learning model.
+This Streamlit-based web application performs sentiment analysis on product reviews. Users can input review text, and the app predicts whether the sentiment is positive or negative, using a trained Naive Bayes classifier. The model was built using TF-IDF vectorization and trained on a labeled dataset of customer reviews, optimized for accuracy and clarity.
+The app is designed to be simple, fast, and accessible—ideal for showcasing how machine learning can be applied to real-world consumer feedback.
 
 **_Model Training & Preprocessing_**
 
